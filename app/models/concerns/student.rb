@@ -4,4 +4,4 @@ class Student < ActiveRecord::Base
     end
   end
 
-  # review 
+  # review, activerecord - created students, used first/last/q
